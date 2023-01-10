@@ -2,7 +2,6 @@
 </h1>
 ![python](https://user-images.githubusercontent.com/122369882/211616621-3e894459-c169-4e8c-b343-bdec98ed2347.png)
 
-
 ## ⚙ Tools and Technologies Covered
 - Python 3
 - PyCharm, Jupyter Notebook, Google Colab
