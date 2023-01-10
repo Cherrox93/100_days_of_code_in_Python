@@ -1,8 +1,6 @@
 <h1 align="center">100 days, 1 hour per day, learn to build 1 project per day
 </h1>
 
-100 days, 1 hour per day, learn to build 1 project per day
-
 ## ⚙ Tools and Technologies Covered
 - Python 3
 - PyCharm, Jupyter Notebook, Google Colab
