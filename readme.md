@@ -1,5 +1,6 @@
 <h1 align="center">100 days, 1 hour per day, learn to build 1 project per day
 </h1>
+![python](https://user-images.githubusercontent.com/122369882/211616506-6a86fbf5-101b-44d6-abf6-a14301b2062e.png)
 
 ## ⚙ Tools and Technologies Covered
 - Python 3
