@@ -6,7 +6,7 @@
 #Example Output
 #After you have written your code, you should run your program and it should print the following:
 
-![1 1  print](https://user-images.githubusercontent.com/122369882/213155219-f3cecd99-e6b4-44e6-8b15-7d514ad8c9bb.gif)
+![1 1  print](https://user-images.githubusercontent.com/122369882/213155680-7b22083f-5046-43e5-a3bd-12f7286639fa.gif)
 
 #Write your code below this line 👇
 
